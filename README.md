@@ -27,6 +27,11 @@ npm install hexo-cli -g
 2. 进入https://gitee.com/joman/joman/pages 点击更新
 ```
 
+#### 部署gitee教程
+```
+1. hexo clean & hexo deploy
+2. 进入https://gitee.com/joman/joman/pages 点击更新
+```
 
 
 #### 使用说明
