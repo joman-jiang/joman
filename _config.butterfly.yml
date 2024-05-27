@@ -35,7 +35,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
+  fab fa-github: https://github.com/joman-jiang || Github
   fas fa-envelope: mailto:joman.jiang@foxmail.com || Email
   fab fa-qq: tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=514403180&website=www.oicqzone.com || QQ
 # search (搜索)
