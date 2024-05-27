@@ -5,7 +5,7 @@ tags:
 categories: Docker
 keywords: 'docker'
 description: docker的安装
-cover: /img/00.jpg
+cover: /img/docker/docker.jpg
 date: 2024-02-23 15:20:11
 comments: false
 ---
