@@ -16,6 +16,12 @@ npm install hexo-cli -g
 2.  hexo server
 ```
 
+##### 升级依赖
+```
+yarn upgrade --latest
+```
+
+
 #### 部署gitee教程
 ```
 1. hexo deploy
