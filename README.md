@@ -38,5 +38,9 @@ yarn upgrade --latest
 #### 使用说明
 
 1.  [Butterfly 安裝文檔(一) 快速開始](https://butterfly.js.org/posts/21cfbf15/)
+2.  
+
+#### 主题配置
+增加<_config.主题名.yml>文件
 
 
